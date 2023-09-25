@@ -19,6 +19,9 @@ body {
     background-color: var(--lightBlue);
 }
 
+
+/* the code below are the styles for the main page  */
+
 .logo-container {
     
 }
@@ -77,4 +80,15 @@ a:active {
     text-align: center;
     font-size: 25px;
     font-family: secondFont;
+} 
+
+
+/* the code below are the styles for the Omelet page  */
+
+.dishPic {
+    height: 400px;
+    width: 250px;
+    object-fit: cover;
 }
+
+/* the code below are the styles for the egg-salad page  */
